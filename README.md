@@ -14,3 +14,8 @@ ou n'importe où à l'intérieur du cadre.
 
 obsolète - AbsoluteLayout signifie que vous devez indiquer la position exacte où la vue doit être.
 
+SQLITE
+https://www.tutlane.com/tutorial/android/android-sqlite-listview-with-examples
+
+
+
